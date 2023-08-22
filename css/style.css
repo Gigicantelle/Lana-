@@ -1,0 +1,51 @@
+
+ .rodape{
+    margin-top: 2% ;
+    text-align: center;
+ }
+.botao{
+    background-color: black;
+}
+.barra{
+    background-color: black !important;
+}
+.corletra{
+    color: white !important;
+}
+.fotos{
+    width: 20%;
+    margin-top: 2%;
+    border-radius: 10% !important;
+    margin-left: 10%;
+}
+.formulario{
+    margin-left: 5%;
+   
+}
+.caixatexto {
+    margin: 0;
+    font-family: -apple-system, Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 40;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #000000;
+    padding: 30px;
+    padding-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 0.25rem;
+    max-width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.poster{
+    margin-left: 2%;
+    width: 30%;
+    height: 30%;
+    margin-top: 4%;
+}
+.ajuste{
+   width: 40%;
+   height: 40%;
+}
